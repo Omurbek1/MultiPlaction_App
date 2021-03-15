@@ -1,0 +1,42 @@
+.body {
+  text-align: center;
+}
+body {
+  background-color: rgba(13, 180, 180, 0.7);
+}
+.button {
+  text-align: center;
+  align-items: center;
+}
+input {
+  height: 44px;
+  font-size: 20px;
+  background-color: black;
+  color: white;
+  font-weight: bold;
+  margin-top: 10px;
+  width: 150px;
+  text-align: center;
+  box-shadow: 5px 5px 15px white;
+}
+#output {
+  background-color: white;
+  color: black;
+  font-weight: bolder;
+  width: 90%;
+  font-size: 22px;
+  box-sizing: border-box;
+  box-shadow: 0px 0px 14px black;
+  margin-left: 5%;
+  padding: 10px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  display: none;
+}
+#clear {
+  display: none;
+  background-color: black;
+  width: 100px;
+  height: 40px;
+  font-size: 20px;
+}
